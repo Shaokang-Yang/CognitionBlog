@@ -1,0 +1,14 @@
+{
+  "hash": "e2b95d8e8a51c3d2b6ee8fc4423c43f7",
+  "result": {
+    "markdown": "---\ntitle: \"My new post Quart Blog\"\nauthor: \"Shaokang Yang\"\ndate: \"2023-09-24\"\ncategories: [thoughts]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code 2.\n\nHumans are inherently social beings. Appropriate social engagement has significant benefits for individuals' physical and mental health. While prior research heavily relies on social interaction volume as a social engagement metric, little attention is paid to how the structure of social community affects individuals' behavior and well-being. Moreover, evidence shows that strategically activating social networks and mobilizing social capital has a significant impact on an individual's performance. Yet, whether activating different parts of one's social network has heterogeneous effects on one's outcome has rarely been studied. Furthermore, how social disconnectedness and perceived loneliness differently impact an individual's behavior is not clear. We contextualize the research problems in smartphone addiction, which is a pervasive problem in the era of digitalization and is widely thought to be associated with social isolation. Thus, the objective of our study is\n\nto examine the impact of social network activation on smartphone addiction.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
